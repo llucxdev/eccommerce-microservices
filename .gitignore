@@ -1,0 +1,28 @@
+# Maven output
+target/
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment
+.env
+.env.*
+*.local
